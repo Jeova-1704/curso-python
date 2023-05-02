@@ -1,5 +1,7 @@
 # Repositório de códigos de aulas e exercícios do Curso de Python da Udemy
 
+![logo](https://user-images.githubusercontent.com/127805808/235555280-b46b5d6e-16e9-41eb-b2ab-a207357b362c.png)
+
 <h4>Este repositório contém códigos de aulas e exercícios do Curso de Python ministrado pelo professor Luiz Otávio Miranda na plataforma Udemy.O repositório também conta com alguns projetos adicionais e exercícios extras.</h4>
 
 <h4>Estou constantimente atualizando esse repositório, pois ainda estou em processo de estudos sobre python</h4>
